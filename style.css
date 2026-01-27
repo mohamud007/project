@@ -1,0 +1,114 @@
+/*-------------------------------------------*/
+/* Page background */
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 600px;
+}
+body {
+    background: rgb(24, 24, 24);
+}
+.heading h1{
+    text-align: center;
+    color:white;
+    margin-top: 20px;
+}
+.contact p{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+.contact a {
+    text-decoration: none;
+    color: white;
+}
+
+.contact i {
+    margin-right: 6px;
+}
+.contact a:hover{
+    text-decoration: underline;
+    color: rgb(91, 91, 245);
+}
+/*--------------------------------------------------*/
+/* summary*/
+.summary {
+    margin: auto;
+    box-sizing: border-box;
+    background: rgb(24, 23, 23);
+    width: 1000px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px white;
+}
+.summary p{
+    color:white;
+    font-size: large;
+    font-weight: 900;
+}
+.summary h2{
+    color:red;
+}
+/*-----------------------------------------*/
+/* Skills */
+.tech{
+    margin: auto;
+    margin-top: 20px;
+    box-sizing: border-box;
+    background: rgb(24, 23, 23);
+    width: 1000px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px white;
+}
+.tech ul{
+    color:white;
+    font-size: larger;
+}
+/*-----------------------------------------------*/
+/* Projects */
+.work {
+    margin: auto;
+    margin-top: 20px;
+    box-sizing: border-box;
+    background: rgb(24, 23, 23);
+    width: 1000px;
+    padding: 2px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px white;
+
+}
+.work ul{
+    color: white;
+    font-size: larger;
+}
+/*------------------------------------------------*/
+/* study */
+.study{
+    margin: auto;
+    margin-top: 20px;
+    box-sizing: border-box;
+    background: rgb(24, 23, 23);
+    width: 1000px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px white;
+}
+.study p{
+    margin-left: 20px;
+    color: white;
+    font-size: larger;
+}
+.study section{
+    margin: auto;
+    margin-top: 20px;
+    box-sizing: border-box;
+    background: rgb(24, 23, 23);
+    width: 950px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px white;
+}
